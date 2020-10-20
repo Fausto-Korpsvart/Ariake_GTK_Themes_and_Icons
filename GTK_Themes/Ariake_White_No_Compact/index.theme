@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Ariake_White_No_Compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Ariake_White_No_Compact
+MetacityTheme=Ariake_White_No_Compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
